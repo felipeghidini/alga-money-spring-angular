@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\fern\workspace\algamoney-api\.metadata\.plugins\org.eclipse.jdt.core
